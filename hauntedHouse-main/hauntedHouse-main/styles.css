@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color: red;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border: 5px solid black;
+}
+a{
+    text-align: center;
+    display: block;
+    color: red;
+}
+body{
+    background-color: grey;
+}
+footer{
+    position:absolute;
+    bottom:0;
+    color: orangered;
+}
+p{
+    text-align: center;
+    color: yellow;
+    font-size: large;
+}
+summary{
+    text-align: center;
+    color: red;
+}
